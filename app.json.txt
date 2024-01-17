@@ -1,7 +1,7 @@
 {
   "name": "⦓ 𝗧𝗘𝗟𝗘𝗛𝗢𝗡 𝐋𝐎𝐑𝐃 ⦔",
   "description": "اللهم صلي وسلم وزد وبارك على سيدنا محمد 🌺",
-  "logo": "https://graph.org/file/92e7f9503dc8352f65181.jpg",
+  "logo": "https://graph.org/file/46a9ce91a375639d65fbd.jpg",
   "keywords": [
     "plugin",
     "modular",
